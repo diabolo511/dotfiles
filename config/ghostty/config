@@ -1,0 +1,32 @@
+term = xterm-ghostty
+
+theme = dark:tokyonight, light:tokyonight
+background-opacity = 0.85
+background-blur-radius = 64
+
+cursor-style = block
+cursor-style-blink = true
+
+font-family = CaskaydiaMono Nerd font
+font-style-bold = default
+font-style-italic = default
+font-style-bold-italic = default
+font-size = 16
+font-feature = -liga
+adjust-cell-height = 35%
+
+window-decoration = false
+window-padding-x = 10
+window-padding-y = 10
+window-step-resize = true
+window-colorspace = "display-p3"
+
+mouse-hide-while-typing = true
+clipboard-read = allow
+clipboard-paste-bracketed-safe = true
+copy-on-select = true
+desktop-notifications = true
+gtk-adwaita = true
+gtk-titlebar = false
+shell-integration-features = no-cursor,sudo,no-title
+
