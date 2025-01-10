@@ -19,6 +19,7 @@
  - git clone https://github.com/diabolo511/dotfiles.git
  - cd dotfiles
  - ./install.sh
+ - after reboot cd .config/dotfiles
  - cp -r dotzshrc /home/danny/.zshrc
 
 4. Wichtige Befehle
