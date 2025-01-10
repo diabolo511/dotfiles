@@ -130,6 +130,7 @@ sudo systemctl enable ufw.service
 ### --- ZSH --- ###
 
 chsh -s $(which zsh)
+ln -sf $PWD/config/.zshrc ~/
 
 ### --- Starship --- ###
 
