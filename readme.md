@@ -20,6 +20,16 @@
  - cd dotfiles
  - ./install.sh
 
+3.1 Git Config
+ - git config --global user.name "diabolo511"
+ - git config --global user.email "deine-commit-email" 
+ - gh auth login 
+    - Schritte befolgen!
+    - SSH-Methode
+    - Name: GitHub CLI Linux (oder so)
+    - Code in Browser eingeben!
+    - Done
+
 4. Wichtige Befehle
  - update - Update all packages
  - install - Installation von Paketen aus offiziellen Quellen

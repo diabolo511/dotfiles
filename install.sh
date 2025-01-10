@@ -149,4 +149,6 @@ echo "-- Installation Finished"
 echo "-- Press enter to continue --"
 read
 
+### --- Reboot --- ###
+
 reboot
