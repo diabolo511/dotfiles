@@ -55,6 +55,7 @@ pkgs=(
   "xclip"
   "tree"
   "ripgrep"
+  "lib32-vulkan-radeon"
 # ----------- #  
   "bitwarden"
   "vlc"
